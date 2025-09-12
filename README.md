@@ -1,6 +1,8 @@
-đây là thay đổi của quý 
+Day la thay doi cua nhi,quy
+# Dự án học Git
 
-nguyenphuquy
+Đây là dự án thực hành Git cơ bản.
+Chúng ta sẽ học cách làm việc nhóm hiệu quả.
 
-ngotranphuocduy
+- Thành viên: nhi, quy, duy
 
