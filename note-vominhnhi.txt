@@ -1,2 +1,3 @@
 Đây là ghi chú cá nhân của Võ Minh Nhí.
 Lần commit đầu tiên.
+Đã chỉnh sửa lần thứ 2 để thêm thông tin.
