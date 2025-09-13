@@ -1,4 +1,4 @@
-Day la thay doi cua nhi,quy
+Day la thay doi cua nhi,quy,duy
 # Dự án học Git
 
 Đây là dự án thực hành Git cơ bản.
